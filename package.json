@@ -6,7 +6,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "patch": "npm version patch && git push origin master && git push origin --tags",
@@ -28,8 +27,5 @@
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0"
   },
-  "homepage": "https://github.com/Tom-MiHu",
-  "keywords": [
-    "picgo-gui-plugin"
-  ]
+  "homepage": "https://github.com/Tom-MiHu/Oceanpic-Uploader"
 }
